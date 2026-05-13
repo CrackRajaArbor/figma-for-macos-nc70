@@ -1,4 +1,4 @@
-# 
+# Figma for macOS updated Plugin: blend modes & 3D rendering is the best Figma for macOS plugin, featuring blend modes and 3D rendering. Safe, efficient, and optimized for designers
 
 
 
